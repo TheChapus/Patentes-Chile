@@ -12,3 +12,11 @@ Se encuentran imagenes de todas las partes de un auto
 ### Pat Ok
 Se encuentran imagenes solo donde aparecen patentes ya sea visibles o tapadas, estas seran utilziadas para entrenar YOLO.
 Esto aun esta en preceso
+
+- [x] Definir Proyecto
+- [x] Identificar de donde se obtendra DataSet
+- [x] Programar SW para armar DataSet
+- [x] Seleccionar Imagenes "utiles" DataSet #Manual
+- [ ] Entrenar Yolo
+- [ ] Progar con Imagenes Reales
+ 
